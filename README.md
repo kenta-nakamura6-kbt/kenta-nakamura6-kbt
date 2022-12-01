@@ -1,3 +1,8 @@
 - 👋 Hi, I’m @kenta-nakamura6-kbt
 - 🌱 I’m engaged in data analysis in agriculture
-- 👀 I’m currently learning bayesian statistical modeling. 
+
+# My Favorite Repositories
+
+|Name|Project|Description|
+|---|---|---|
+||||
